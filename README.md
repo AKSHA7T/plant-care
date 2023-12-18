@@ -1,1 +1,1 @@
-# plant-care
+# PlantCare
